@@ -17,8 +17,6 @@ body {
 #gallery {
   margin: 0% 8%;
   text-align: center;
-  /* display: flex;
-  flex-wrap: wrap; */
 }
 
 img {
@@ -29,7 +27,6 @@ img {
 
 #pano {
   width: 1209px;
-  /* padding: 10px; */
 }
 
 #bottom-gallery {
@@ -97,22 +94,6 @@ h6 {
     width: 92%;
   }
 }
-
-
-body {animation: growth ease-in-out 0.5s;}
-
-@keyframes growth {
-  from {
-    opacity: 0%;
-    margin-top: 99px;
-  }
-
-  to {
-    opacity: 100%;
-    margin-top: 0px;
-  }
-}
-
 
 #overlay {
   position: fixed;
