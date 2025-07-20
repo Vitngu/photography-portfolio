@@ -41,7 +41,7 @@ img {
 
 h1 {
   font-size: 50px;
-  font-family: 'Kanit', monospace;
+  font-family: monospace;
   padding: 50px 0px;
 }
 
@@ -58,7 +58,7 @@ footer {
 }
 
 h6 {
-  font-family: 'Source Code Pro', monospace;
+  font-family: monospace;
   color: white;
   font-size: 16px;
   text-align: center;
