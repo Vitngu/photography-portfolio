@@ -37,9 +37,9 @@ img {
 }
 
 h1 {
-  font-size: 50px;
-  font-weight: bolder;
-  font-family: Arial, monospace;
+  font-size: 9vh;
+  font-weight: 400;
+  font-family: Anton, monospace;
   padding: 50px 0px;
 }
 
